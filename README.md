@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/yogeendra-git/leetcode_qs/tree/master/0283-move-zeroes) |
 ## String Matching
