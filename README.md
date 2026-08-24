@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/yogeendra-git/leetcode_qs/tree/master/1108-defanging-an-ip-address) |
 ## Two Pointers
 |  |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/yogeendra-git/leetcode_qs/tree/master/0283-move-zeroes) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
