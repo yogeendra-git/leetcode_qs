@@ -35,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yogeendra-git/leetcode_qs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
