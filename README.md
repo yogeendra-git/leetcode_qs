@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0135-candy](https://github.com/yogeendra-git/leetcode_qs/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yogeendra-git/leetcode_qs/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/yogeendra-git/leetcode_qs/tree/master/0283-move-zeroes) |
@@ -126,5 +127,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/yogeendra-git/leetcode_qs/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
