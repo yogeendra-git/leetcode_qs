@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yogeendra-git/leetcode_qs/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yogeendra-git/leetcode_qs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/yogeendra-git/leetcode_qs/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/0169-majority-element) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yogeendra-git/leetcode_qs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
 | ------- |
