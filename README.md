@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0258-add-digits) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/yogeendra-git/leetcode_qs/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
