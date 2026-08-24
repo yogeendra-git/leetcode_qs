@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0135-candy](https://github.com/yogeendra-git/leetcode_qs/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/yogeendra-git/leetcode_qs/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/yogeendra-git/leetcode_qs/tree/master/0704-binary-search) |
@@ -32,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
 ## Binary Search
 |  |
@@ -79,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0796-rotate-string) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
