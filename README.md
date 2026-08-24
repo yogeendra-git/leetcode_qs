@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2769-find-the-maximum-achievable-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/2769-find-the-maximum-achievable-number) |
 ## Simulation
 |  |
 | ------- |
