@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/yogeendra-git/leetcode_qs/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yogeendra-git/leetcode_qs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/yogeendra-git/leetcode_qs/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/yogeendra-git/leetcode_qs/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0344-reverse-string) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yogeendra-git/leetcode_qs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yogeendra-git/leetcode_qs/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yogeendra-git/leetcode_qs/tree/master/0242-valid-anagram) |
