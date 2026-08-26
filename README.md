@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0190-reverse-bits) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/yogeendra-git/leetcode_qs/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
