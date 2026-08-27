@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/yogeendra-git/leetcode_qs/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/yogeendra-git/leetcode_qs/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yogeendra-git/leetcode_qs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/yogeendra-git/leetcode_qs/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/yogeendra-git/leetcode_qs/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yogeendra-git/leetcode_qs/tree/master/0078-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yogeendra-git/leetcode_qs/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
