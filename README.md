@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/yogeendra-git/leetcode_qs/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/yogeendra-git/leetcode_qs/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/yogeendra-git/leetcode_qs/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yogeendra-git/leetcode_qs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Math
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/yogeendra-git/leetcode_qs/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yogeendra-git/leetcode_qs/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yogeendra-git/leetcode_qs/tree/master/0342-power-of-four) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/yogeendra-git/leetcode_qs/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
