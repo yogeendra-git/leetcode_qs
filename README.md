@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/yogeendra-git/leetcode_qs/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yogeendra-git/leetcode_qs/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/yogeendra-git/leetcode_qs/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/yogeendra-git/leetcode_qs/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/yogeendra-git/leetcode_qs/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/yogeendra-git/leetcode_qs/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/yogeendra-git/leetcode_qs/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yogeendra-git/leetcode_qs/tree/master/0062-unique-paths) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/yogeendra-git/leetcode_qs/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
