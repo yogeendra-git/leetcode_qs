@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/yogeendra-git/leetcode_qs/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/yogeendra-git/leetcode_qs/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yogeendra-git/leetcode_qs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/yogeendra-git/leetcode_qs/tree/master/0135-candy) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yogeendra-git/leetcode_qs/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/yogeendra-git/leetcode_qs/tree/master/0389-find-the-difference) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/0209-minimum-size-subarray-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/yogeendra-git/leetcode_qs/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
