@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/yogeendra-git/leetcode_qs/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/yogeendra-git/leetcode_qs/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/yogeendra-git/leetcode_qs/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/yogeendra-git/leetcode_qs/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2769-find-the-maximum-achievable-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/2769-find-the-maximum-achievable-number) |
@@ -193,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/yogeendra-git/leetcode_qs/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/yogeendra-git/leetcode_qs/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
