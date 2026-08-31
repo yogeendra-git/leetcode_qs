@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/yogeendra-git/leetcode_qs/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/yogeendra-git/leetcode_qs/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/yogeendra-git/leetcode_qs/tree/master/0704-binary-search) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yogeendra-git/leetcode_qs/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yogeendra-git/leetcode_qs/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/yogeendra-git/leetcode_qs/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
 ## Counting Sort
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/yogeendra-git/leetcode_qs/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/yogeendra-git/leetcode_qs/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/yogeendra-git/leetcode_qs/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yogeendra-git/leetcode_qs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/yogeendra-git/leetcode_qs/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yogeendra-git/leetcode_qs/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yogeendra-git/leetcode_qs/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/yogeendra-git/leetcode_qs/tree/master/0389-find-the-difference) |
 | [0705-design-hashset](https://github.com/yogeendra-git/leetcode_qs/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/yogeendra-git/leetcode_qs/tree/master/0771-jewels-and-stones) |
