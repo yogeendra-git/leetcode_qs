@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0605-can-place-flowers) |
+| [0682-baseball-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/yogeendra-git/leetcode_qs/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/yogeendra-git/leetcode_qs/tree/master/0705-design-hashset) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yogeendra-git/leetcode_qs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yogeendra-git/leetcode_qs/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/yogeendra-git/leetcode_qs/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yogeendra-git/leetcode_qs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yogeendra-git/leetcode_qs/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
