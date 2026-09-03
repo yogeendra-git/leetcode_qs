@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yogeendra-git/leetcode_qs/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/yogeendra-git/leetcode_qs/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/yogeendra-git/leetcode_qs/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/yogeendra-git/leetcode_qs/tree/master/0704-binary-search) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/yogeendra-git/leetcode_qs/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/yogeendra-git/leetcode_qs/tree/master/0374-guess-number-higher-or-lower) |
 ## Longest Common Subsequence
 |  |
