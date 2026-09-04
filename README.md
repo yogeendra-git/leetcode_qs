@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/yogeendra-git/leetcode_qs/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/yogeendra-git/leetcode_qs/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yogeendra-git/leetcode_qs/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/yogeendra-git/leetcode_qs/tree/master/0078-subsets) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/yogeendra-git/leetcode_qs/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/yogeendra-git/leetcode_qs/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yogeendra-git/leetcode_qs/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/yogeendra-git/leetcode_qs/tree/master/0231-power-of-two) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yogeendra-git/leetcode_qs/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yogeendra-git/leetcode_qs/tree/master/0054-spiral-matrix) |
 ## Sliding Window
 |  |
