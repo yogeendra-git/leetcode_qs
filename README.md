@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yogeendra-git/leetcode_qs/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/0349-intersection-of-two-arrays) |
 | [0518-coin-change-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0518-coin-change-ii) |
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/yogeendra-git/leetcode_qs/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/yogeendra-git/leetcode_qs/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/yogeendra-git/leetcode_qs/tree/master/0704-binary-search) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/yogeendra-git/leetcode_qs/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/yogeendra-git/leetcode_qs/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/yogeendra-git/leetcode_qs/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/yogeendra-git/leetcode_qs/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/yogeendra-git/leetcode_qs/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yogeendra-git/leetcode_qs/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -380,4 +384,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0518-coin-change-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
