@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
+| [2351-first-letter-to-appear-twice](https://github.com/yogeendra-git/leetcode_qs/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/yogeendra-git/leetcode_qs/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/yogeendra-git/leetcode_qs/tree/master/1108-defanging-an-ip-address) |
+| [2351-first-letter-to-appear-twice](https://github.com/yogeendra-git/leetcode_qs/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/yogeendra-git/leetcode_qs/tree/master/0389-find-the-difference) |
 | [0705-design-hashset](https://github.com/yogeendra-git/leetcode_qs/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/yogeendra-git/leetcode_qs/tree/master/0771-jewels-and-stones) |
+| [2351-first-letter-to-appear-twice](https://github.com/yogeendra-git/leetcode_qs/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/yogeendra-git/leetcode_qs/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/yogeendra-git/leetcode_qs/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yogeendra-git/leetcode_qs/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2351-first-letter-to-appear-twice](https://github.com/yogeendra-git/leetcode_qs/tree/master/2351-first-letter-to-appear-twice) |
 ## Matrix
 |  |
 | ------- |
