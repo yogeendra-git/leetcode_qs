@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/yogeendra-git/leetcode_qs/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/yogeendra-git/leetcode_qs/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/yogeendra-git/leetcode_qs/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/yogeendra-git/leetcode_qs/tree/master/0583-delete-operation-for-two-strings) |
 | [0709-to-lower-case](https://github.com/yogeendra-git/leetcode_qs/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/yogeendra-git/leetcode_qs/tree/master/0771-jewels-and-stones) |
