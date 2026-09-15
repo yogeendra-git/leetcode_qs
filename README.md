@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/yogeendra-git/leetcode_qs/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/yogeendra-git/leetcode_qs/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/yogeendra-git/leetcode_qs/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/yogeendra-git/leetcode_qs/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/yogeendra-git/leetcode_qs/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/yogeendra-git/leetcode_qs/tree/master/0412-fizz-buzz) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yogeendra-git/leetcode_qs/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/yogeendra-git/leetcode_qs/tree/master/0257-binary-tree-paths) |
 ## Memoization
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogeendra-git/leetcode_qs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yogeendra-git/leetcode_qs/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/yogeendra-git/leetcode_qs/tree/master/0257-binary-tree-paths) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yogeendra-git/leetcode_qs/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogeendra-git/leetcode_qs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yogeendra-git/leetcode_qs/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/yogeendra-git/leetcode_qs/tree/master/0257-binary-tree-paths) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yogeendra-git/leetcode_qs/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogeendra-git/leetcode_qs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yogeendra-git/leetcode_qs/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/yogeendra-git/leetcode_qs/tree/master/0257-binary-tree-paths) |
 | [0841-keys-and-rooms](https://github.com/yogeendra-git/leetcode_qs/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
