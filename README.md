@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/yogeendra-git/leetcode_qs/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
 | [2351-first-letter-to-appear-twice](https://github.com/yogeendra-git/leetcode_qs/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/yogeendra-git/leetcode_qs/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/yogeendra-git/leetcode_qs/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/yogeendra-git/leetcode_qs/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/yogeendra-git/leetcode_qs/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/yogeendra-git/leetcode_qs/tree/master/0520-detect-capital) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/yogeendra-git/leetcode_qs/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/yogeendra-git/leetcode_qs/tree/master/0389-find-the-difference) |
 | [0705-design-hashset](https://github.com/yogeendra-git/leetcode_qs/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/yogeendra-git/leetcode_qs/tree/master/0771-jewels-and-stones) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yogeendra-git/leetcode_qs/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0387-first-unique-character-in-a-string) |
 ## Minimax
 |  |
 | ------- |
