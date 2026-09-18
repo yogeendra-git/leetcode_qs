@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/yogeendra-git/leetcode_qs/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yogeendra-git/leetcode_qs/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/yogeendra-git/leetcode_qs/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/1025-divisor-game) |
