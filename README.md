@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/yogeendra-git/leetcode_qs/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/yogeendra-git/leetcode_qs/tree/master/1108-defanging-an-ip-address) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/yogeendra-git/leetcode_qs/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yogeendra-git/leetcode_qs/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/yogeendra-git/leetcode_qs/tree/master/2351-first-letter-to-appear-twice) |
 | [3498-reverse-degree-of-a-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/3498-reverse-degree-of-a-string) |
