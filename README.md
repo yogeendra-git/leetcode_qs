@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/1025-divisor-game) |
+| [1103-distribute-candies-to-people](https://github.com/yogeendra-git/leetcode_qs/tree/master/1103-distribute-candies-to-people) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/1323-maximum-69-number) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/yogeendra-git/leetcode_qs/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/0682-baseball-game) |
+| [1103-distribute-candies-to-people](https://github.com/yogeendra-git/leetcode_qs/tree/master/1103-distribute-candies-to-people) |
 | [1929-concatenation-of-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yogeendra-git/leetcode_qs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/3498-reverse-degree-of-a-string) |
