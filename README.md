@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/yogeendra-git/leetcode_qs/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/yogeendra-git/leetcode_qs/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/yogeendra-git/leetcode_qs/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/yogeendra-git/leetcode_qs/tree/master/1108-defanging-an-ip-address) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/yogeendra-git/leetcode_qs/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/yogeendra-git/leetcode_qs/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yogeendra-git/leetcode_qs/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/yogeendra-git/leetcode_qs/tree/master/2351-first-letter-to-appear-twice) |
 | [3498-reverse-degree-of-a-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/3498-reverse-degree-of-a-string) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/yogeendra-git/leetcode_qs/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/yogeendra-git/leetcode_qs/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/yogeendra-git/leetcode_qs/tree/master/1207-unique-number-of-occurrences) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/yogeendra-git/leetcode_qs/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/yogeendra-git/leetcode_qs/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
