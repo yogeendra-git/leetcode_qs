@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/yogeendra-git/leetcode_qs/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yogeendra-git/leetcode_qs/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yogeendra-git/leetcode_qs/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yogeendra-git/leetcode_qs/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yogeendra-git/leetcode_qs/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/yogeendra-git/leetcode_qs/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/yogeendra-git/leetcode_qs/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/yogeendra-git/leetcode_qs/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/yogeendra-git/leetcode_qs/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/yogeendra-git/leetcode_qs/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/yogeendra-git/leetcode_qs/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/yogeendra-git/leetcode_qs/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yogeendra-git/leetcode_qs/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Database
@@ -492,4 +495,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/yogeendra-git/leetcode_qs/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
