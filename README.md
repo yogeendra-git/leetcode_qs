@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/yogeendra-git/leetcode_qs/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yogeendra-git/leetcode_qs/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/yogeendra-git/leetcode_qs/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/yogeendra-git/leetcode_qs/tree/master/1732-find-the-highest-altitude) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/yogeendra-git/leetcode_qs/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/yogeendra-git/leetcode_qs/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/yogeendra-git/leetcode_qs/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/yogeendra-git/leetcode_qs/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/yogeendra-git/leetcode_qs/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/yogeendra-git/leetcode_qs/tree/master/1207-unique-number-of-occurrences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/yogeendra-git/leetcode_qs/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/yogeendra-git/leetcode_qs/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
