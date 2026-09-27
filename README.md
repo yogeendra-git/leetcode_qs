@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yogeendra-git/leetcode_qs/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/yogeendra-git/leetcode_qs/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/yogeendra-git/leetcode_qs/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/yogeendra-git/leetcode_qs/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/yogeendra-git/leetcode_qs/tree/master/0066-plus-one) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yogeendra-git/leetcode_qs/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yogeendra-git/leetcode_qs/tree/master/0217-contains-duplicate) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/yogeendra-git/leetcode_qs/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/yogeendra-git/leetcode_qs/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/yogeendra-git/leetcode_qs/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/yogeendra-git/leetcode_qs/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/yogeendra-git/leetcode_qs/tree/master/0125-valid-palindrome) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yogeendra-git/leetcode_qs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/yogeendra-git/leetcode_qs/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/yogeendra-git/leetcode_qs/tree/master/0217-contains-duplicate) |
