@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yogeendra-git/leetcode_qs/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/yogeendra-git/leetcode_qs/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/yogeendra-git/leetcode_qs/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yogeendra-git/leetcode_qs/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/yogeendra-git/leetcode_qs/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yogeendra-git/leetcode_qs/tree/master/0054-spiral-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yogeendra-git/leetcode_qs/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/yogeendra-git/leetcode_qs/tree/master/1672-richest-customer-wealth) |
 ## Sliding Window
 |  |
