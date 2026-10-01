@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0728-self-dividing-numbers) |
+| [0829-consecutive-numbers-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/0829-consecutive-numbers-sum) |
 | [1025-divisor-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/yogeendra-git/leetcode_qs/tree/master/1103-distribute-candies-to-people) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0829-consecutive-numbers-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/0829-consecutive-numbers-sum) |
 | [1952-three-divisors](https://github.com/yogeendra-git/leetcode_qs/tree/master/1952-three-divisors) |
 ## Prime Factorization
 |  |
