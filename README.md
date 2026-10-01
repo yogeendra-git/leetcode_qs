@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/yogeendra-git/leetcode_qs/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/yogeendra-git/leetcode_qs/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/yogeendra-git/leetcode_qs/tree/master/0860-lemonade-change) |
+| [0896-monotonic-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0896-monotonic-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yogeendra-git/leetcode_qs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/yogeendra-git/leetcode_qs/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/yogeendra-git/leetcode_qs/tree/master/1207-unique-number-of-occurrences) |
