@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/yogeendra-git/leetcode_qs/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yogeendra-git/leetcode_qs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/yogeendra-git/leetcode_qs/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/yogeendra-git/leetcode_qs/tree/master/0583-delete-operation-for-two-strings) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/yogeendra-git/leetcode_qs/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/yogeendra-git/leetcode_qs/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/yogeendra-git/leetcode_qs/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yogeendra-git/leetcode_qs/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
