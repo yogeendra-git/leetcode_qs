@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1991-find-the-middle-index-in-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/yogeendra-git/leetcode_qs/tree/master/2057-smallest-index-with-equal-value) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yogeendra-git/leetcode_qs/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/yogeendra-git/leetcode_qs/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/yogeendra-git/leetcode_qs/tree/master/2540-minimum-common-value) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/yogeendra-git/leetcode_qs/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/yogeendra-git/leetcode_qs/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/yogeendra-git/leetcode_qs/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/yogeendra-git/leetcode_qs/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
