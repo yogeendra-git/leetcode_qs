@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/yogeendra-git/leetcode_qs/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/yogeendra-git/leetcode_qs/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/yogeendra-git/leetcode_qs/tree/master/0746-min-cost-climbing-stairs) |
+| [0781-rabbits-in-forest](https://github.com/yogeendra-git/leetcode_qs/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/yogeendra-git/leetcode_qs/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0896-monotonic-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yogeendra-git/leetcode_qs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/yogeendra-git/leetcode_qs/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0605-can-place-flowers) |
+| [0781-rabbits-in-forest](https://github.com/yogeendra-git/leetcode_qs/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/yogeendra-git/leetcode_qs/tree/master/0860-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/1323-maximum-69-number) |
 ## Dynamic Programming
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0728-self-dividing-numbers) |
+| [0781-rabbits-in-forest](https://github.com/yogeendra-git/leetcode_qs/tree/master/0781-rabbits-in-forest) |
 | [0829-consecutive-numbers-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/0829-consecutive-numbers-sum) |
 | [1025-divisor-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/yogeendra-git/leetcode_qs/tree/master/1103-distribute-candies-to-people) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/yogeendra-git/leetcode_qs/tree/master/0389-find-the-difference) |
 | [0705-design-hashset](https://github.com/yogeendra-git/leetcode_qs/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/yogeendra-git/leetcode_qs/tree/master/0771-jewels-and-stones) |
+| [0781-rabbits-in-forest](https://github.com/yogeendra-git/leetcode_qs/tree/master/0781-rabbits-in-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/yogeendra-git/leetcode_qs/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/yogeendra-git/leetcode_qs/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
