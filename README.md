@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/yogeendra-git/leetcode_qs/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/yogeendra-git/leetcode_qs/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0788-rotated-digits) |
 | [1025-divisor-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/1025-divisor-game) |
 ## Sorting
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0728-self-dividing-numbers) |
 | [0781-rabbits-in-forest](https://github.com/yogeendra-git/leetcode_qs/tree/master/0781-rabbits-in-forest) |
+| [0788-rotated-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0788-rotated-digits) |
 | [0829-consecutive-numbers-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/0829-consecutive-numbers-sum) |
 | [1025-divisor-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/yogeendra-git/leetcode_qs/tree/master/1103-distribute-candies-to-people) |
