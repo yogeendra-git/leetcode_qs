@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/yogeendra-git/leetcode_qs/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/yogeendra-git/leetcode_qs/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yogeendra-git/leetcode_qs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/yogeendra-git/leetcode_qs/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/1323-maximum-69-number) |
 ## Dynamic Programming
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/yogeendra-git/leetcode_qs/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/yogeendra-git/leetcode_qs/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/yogeendra-git/leetcode_qs/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/yogeendra-git/leetcode_qs/tree/master/2351-first-letter-to-appear-twice) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yogeendra-git/leetcode_qs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/yogeendra-git/leetcode_qs/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/yogeendra-git/leetcode_qs/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/yogeendra-git/leetcode_qs/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1496-path-crossing](https://github.com/yogeendra-git/leetcode_qs/tree/master/1496-path-crossing) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yogeendra-git/leetcode_qs/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
