@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/yogeendra-git/leetcode_qs/tree/master/2540-minimum-common-value) |
+| [2678-number-of-senior-citizens](https://github.com/yogeendra-git/leetcode_qs/tree/master/2678-number-of-senior-citizens) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yogeendra-git/leetcode_qs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yogeendra-git/leetcode_qs/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yogeendra-git/leetcode_qs/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/yogeendra-git/leetcode_qs/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/2390-removing-stars-from-a-string) |
+| [2678-number-of-senior-citizens](https://github.com/yogeendra-git/leetcode_qs/tree/master/2678-number-of-senior-citizens) |
 | [3498-reverse-degree-of-a-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
