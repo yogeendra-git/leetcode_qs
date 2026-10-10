@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0829-consecutive-numbers-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/0829-consecutive-numbers-sum) |
+| [1291-sequential-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/yogeendra-git/leetcode_qs/tree/master/1952-three-divisors) |
 ## Prime Factorization
 |  |
