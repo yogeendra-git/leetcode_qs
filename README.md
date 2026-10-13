@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/yogeendra-git/leetcode_qs/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/yogeendra-git/leetcode_qs/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/yogeendra-git/leetcode_qs/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yogeendra-git/leetcode_qs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yogeendra-git/leetcode_qs/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/yogeendra-git/leetcode_qs/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0728-self-dividing-numbers) |
 | [0781-rabbits-in-forest](https://github.com/yogeendra-git/leetcode_qs/tree/master/0781-rabbits-in-forest) |
 | [0788-rotated-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0788-rotated-digits) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/yogeendra-git/leetcode_qs/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0633-sum-of-square-numbers) |
 | [2460-apply-operations-to-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/yogeendra-git/leetcode_qs/tree/master/2540-minimum-common-value) |
 ## String Matching
