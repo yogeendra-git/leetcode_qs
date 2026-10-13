@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/yogeendra-git/leetcode_qs/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/0682-baseball-game) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/yogeendra-git/leetcode_qs/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/yogeendra-git/leetcode_qs/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yogeendra-git/leetcode_qs/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yogeendra-git/leetcode_qs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yogeendra-git/leetcode_qs/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
