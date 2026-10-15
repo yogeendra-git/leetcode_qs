@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/yogeendra-git/leetcode_qs/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0896-monotonic-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yogeendra-git/leetcode_qs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/yogeendra-git/leetcode_qs/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/yogeendra-git/leetcode_qs/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/yogeendra-git/leetcode_qs/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/yogeendra-git/leetcode_qs/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yogeendra-git/leetcode_qs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/yogeendra-git/leetcode_qs/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/1323-maximum-69-number) |
 ## Dynamic Programming
