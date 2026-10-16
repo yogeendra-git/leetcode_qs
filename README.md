@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/yogeendra-git/leetcode_qs/tree/master/0781-rabbits-in-forest) |
 | [0788-rotated-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0788-rotated-digits) |
 | [0829-consecutive-numbers-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/0829-consecutive-numbers-sum) |
+| [0866-prime-palindrome](https://github.com/yogeendra-git/leetcode_qs/tree/master/0866-prime-palindrome) |
 | [1025-divisor-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/yogeendra-git/leetcode_qs/tree/master/1103-distribute-candies-to-people) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0258-add-digits) |
+| [0866-prime-palindrome](https://github.com/yogeendra-git/leetcode_qs/tree/master/0866-prime-palindrome) |
 | [1952-three-divisors](https://github.com/yogeendra-git/leetcode_qs/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/yogeendra-git/leetcode_qs/tree/master/2413-smallest-even-multiple) |
@@ -643,4 +645,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yogeendra-git/leetcode_qs/tree/master/0042-trapping-rain-water) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/yogeendra-git/leetcode_qs/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
