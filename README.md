@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0788-rotated-digits) |
 | [0829-consecutive-numbers-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/0829-consecutive-numbers-sum) |
 | [0866-prime-palindrome](https://github.com/yogeendra-git/leetcode_qs/tree/master/0866-prime-palindrome) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/yogeendra-git/leetcode_qs/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/yogeendra-git/leetcode_qs/tree/master/1103-distribute-candies-to-people) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/yogeendra-git/leetcode_qs/tree/master/0781-rabbits-in-forest) |
 | [0804-unique-morse-code-words](https://github.com/yogeendra-git/leetcode_qs/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/yogeendra-git/leetcode_qs/tree/master/0819-most-common-word) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/yogeendra-git/leetcode_qs/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/yogeendra-git/leetcode_qs/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1496-path-crossing](https://github.com/yogeendra-git/leetcode_qs/tree/master/1496-path-crossing) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0287-find-the-duplicate-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/yogeendra-git/leetcode_qs/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
