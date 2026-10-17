@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yogeendra-git/leetcode_qs/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/yogeendra-git/leetcode_qs/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/yogeendra-git/leetcode_qs/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0518-coin-change-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/yogeendra-git/leetcode_qs/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yogeendra-git/leetcode_qs/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/yogeendra-git/leetcode_qs/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/yogeendra-git/leetcode_qs/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/yogeendra-git/leetcode_qs/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/yogeendra-git/leetcode_qs/tree/master/0492-construct-the-rectangle) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/yogeendra-git/leetcode_qs/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/yogeendra-git/leetcode_qs/tree/master/0257-binary-tree-paths) |
+| [0357-count-numbers-with-unique-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0357-count-numbers-with-unique-digits) |
 ## Memoization
 |  |
 | ------- |
