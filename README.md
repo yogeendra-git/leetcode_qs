@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/yogeendra-git/leetcode_qs/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2235-add-two-integers](https://github.com/yogeendra-git/leetcode_qs/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/yogeendra-git/leetcode_qs/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/yogeendra-git/leetcode_qs/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/yogeendra-git/leetcode_qs/tree/master/2469-convert-the-temperature) |
