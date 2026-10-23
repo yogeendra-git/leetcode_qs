@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yogeendra-git/leetcode_qs/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/yogeendra-git/leetcode_qs/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/yogeendra-git/leetcode_qs/tree/master/2678-number-of-senior-citizens) |
 | [2716-minimize-string-length](https://github.com/yogeendra-git/leetcode_qs/tree/master/2716-minimize-string-length) |
 | [3136-valid-word](https://github.com/yogeendra-git/leetcode_qs/tree/master/3136-valid-word) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/yogeendra-git/leetcode_qs/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
