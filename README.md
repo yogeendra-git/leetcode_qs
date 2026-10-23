@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/yogeendra-git/leetcode_qs/tree/master/2540-minimum-common-value) |
 | [2678-number-of-senior-citizens](https://github.com/yogeendra-git/leetcode_qs/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yogeendra-git/leetcode_qs/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yogeendra-git/leetcode_qs/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yogeendra-git/leetcode_qs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/yogeendra-git/leetcode_qs/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yogeendra-git/leetcode_qs/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yogeendra-git/leetcode_qs/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/yogeendra-git/leetcode_qs/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yogeendra-git/leetcode_qs/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/yogeendra-git/leetcode_qs/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yogeendra-git/leetcode_qs/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
 | ------- |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2460-apply-operations-to-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/yogeendra-git/leetcode_qs/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yogeendra-git/leetcode_qs/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String Matching
 |  |
 | ------- |
