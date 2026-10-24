@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/yogeendra-git/leetcode_qs/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/yogeendra-git/leetcode_qs/tree/master/3668-restore-finishing-order) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yogeendra-git/leetcode_qs/tree/master/3875-construct-uniform-parity-array-i) |
+| [3978-unique-middle-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/3978-unique-middle-element) |
 ## Greedy
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/yogeendra-git/leetcode_qs/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3663-find-the-least-frequent-digit](https://github.com/yogeendra-git/leetcode_qs/tree/master/3663-find-the-least-frequent-digit) |
+| [3978-unique-middle-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/3978-unique-middle-element) |
 ## Binary Search
 |  |
 | ------- |
