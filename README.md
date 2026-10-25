@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/yogeendra-git/leetcode_qs/tree/master/0135-candy) |
+| [0397-integer-replacement](https://github.com/yogeendra-git/leetcode_qs/tree/master/0397-integer-replacement) |
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0605-can-place-flowers) |
 | [0781-rabbits-in-forest](https://github.com/yogeendra-git/leetcode_qs/tree/master/0781-rabbits-in-forest) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/yogeendra-git/leetcode_qs/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/yogeendra-git/leetcode_qs/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/yogeendra-git/leetcode_qs/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/yogeendra-git/leetcode_qs/tree/master/0583-delete-operation-for-two-strings) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/yogeendra-git/leetcode_qs/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/yogeendra-git/leetcode_qs/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/yogeendra-git/leetcode_qs/tree/master/0397-integer-replacement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yogeendra-git/leetcode_qs/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2206-divide-array-into-equal-pairs](https://github.com/yogeendra-git/leetcode_qs/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/yogeendra-git/leetcode_qs/tree/master/2351-first-letter-to-appear-twice) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yogeendra-git/leetcode_qs/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/yogeendra-git/leetcode_qs/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
