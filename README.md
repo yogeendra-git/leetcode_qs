@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/yogeendra-git/leetcode_qs/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/yogeendra-git/leetcode_qs/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/yogeendra-git/leetcode_qs/tree/master/0397-integer-replacement) |
+| [1009-complement-of-base-10-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yogeendra-git/leetcode_qs/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-two-out-of-three](https://github.com/yogeendra-git/leetcode_qs/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/yogeendra-git/leetcode_qs/tree/master/2206-divide-array-into-equal-pairs) |
