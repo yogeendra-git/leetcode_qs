@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/yogeendra-git/leetcode_qs/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/yogeendra-git/leetcode_qs/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/yogeendra-git/leetcode_qs/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/yogeendra-git/leetcode_qs/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/yogeendra-git/leetcode_qs/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/yogeendra-git/leetcode_qs/tree/master/0657-robot-return-to-origin) |
