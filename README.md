@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/yogeendra-git/leetcode_qs/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/yogeendra-git/leetcode_qs/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/yogeendra-git/leetcode_qs/tree/master/0705-design-hashset) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/yogeendra-git/leetcode_qs/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yogeendra-git/leetcode_qs/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/yogeendra-git/leetcode_qs/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/yogeendra-git/leetcode_qs/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0728-self-dividing-numbers) |
 | [0781-rabbits-in-forest](https://github.com/yogeendra-git/leetcode_qs/tree/master/0781-rabbits-in-forest) |
