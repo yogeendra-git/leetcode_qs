@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yogeendra-git/leetcode_qs/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/yogeendra-git/leetcode_qs/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2404-most-frequent-even-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/2404-most-frequent-even-element) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/yogeendra-git/leetcode_qs/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2460-apply-operations-to-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/yogeendra-git/leetcode_qs/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/yogeendra-git/leetcode_qs/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/yogeendra-git/leetcode_qs/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yogeendra-git/leetcode_qs/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3663-find-the-least-frequent-digit](https://github.com/yogeendra-git/leetcode_qs/tree/master/3663-find-the-least-frequent-digit) |
 | [3978-unique-middle-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/3978-unique-middle-element) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/yogeendra-git/leetcode_qs/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/yogeendra-git/leetcode_qs/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/yogeendra-git/leetcode_qs/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/yogeendra-git/leetcode_qs/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/yogeendra-git/leetcode_qs/tree/master/2716-minimize-string-length) |
 | [3663-find-the-least-frequent-digit](https://github.com/yogeendra-git/leetcode_qs/tree/master/3663-find-the-least-frequent-digit) |
