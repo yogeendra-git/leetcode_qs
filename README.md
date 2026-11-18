@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/yogeendra-git/leetcode_qs/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
+| [0565-array-nesting](https://github.com/yogeendra-git/leetcode_qs/tree/master/0565-array-nesting) |
 | [0575-distribute-candies](https://github.com/yogeendra-git/leetcode_qs/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0628-maximum-product-of-three-numbers) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/yogeendra-git/leetcode_qs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yogeendra-git/leetcode_qs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/yogeendra-git/leetcode_qs/tree/master/0257-binary-tree-paths) |
+| [0565-array-nesting](https://github.com/yogeendra-git/leetcode_qs/tree/master/0565-array-nesting) |
 | [0841-keys-and-rooms](https://github.com/yogeendra-git/leetcode_qs/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
