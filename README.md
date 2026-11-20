@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/yogeendra-git/leetcode_qs/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/yogeendra-git/leetcode_qs/tree/master/1436-destination-city) |
+| [1470-shuffle-the-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yogeendra-git/leetcode_qs/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
