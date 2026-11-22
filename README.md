@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/yogeendra-git/leetcode_qs/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/yogeendra-git/leetcode_qs/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0896-monotonic-array) |
+| [0912-sort-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/yogeendra-git/leetcode_qs/tree/master/0944-delete-columns-to-make-sorted) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yogeendra-git/leetcode_qs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/yogeendra-git/leetcode_qs/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0912-sort-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yogeendra-git/leetcode_qs/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/yogeendra-git/leetcode_qs/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
 | [0819-most-common-word](https://github.com/yogeendra-git/leetcode_qs/tree/master/0819-most-common-word) |
+| [0912-sort-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0912-sort-an-array) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/yogeendra-git/leetcode_qs/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/yogeendra-git/leetcode_qs/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yogeendra-git/leetcode_qs/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0912-sort-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -633,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yogeendra-git/leetcode_qs/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0912-sort-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/yogeendra-git/leetcode_qs/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
@@ -782,4 +787,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/yogeendra-git/leetcode_qs/tree/master/0944-delete-columns-to-make-sorted) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
