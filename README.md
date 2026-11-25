@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/yogeendra-git/leetcode_qs/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/yogeendra-git/leetcode_qs/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/yogeendra-git/leetcode_qs/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/yogeendra-git/leetcode_qs/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yogeendra-git/leetcode_qs/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/yogeendra-git/leetcode_qs/tree/master/0746-min-cost-climbing-stairs) |
 | [0781-rabbits-in-forest](https://github.com/yogeendra-git/leetcode_qs/tree/master/0781-rabbits-in-forest) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/yogeendra-git/leetcode_qs/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/yogeendra-git/leetcode_qs/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/yogeendra-git/leetcode_qs/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/yogeendra-git/leetcode_qs/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yogeendra-git/leetcode_qs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/yogeendra-git/leetcode_qs/tree/master/1021-remove-outermost-parentheses) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yogeendra-git/leetcode_qs/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/yogeendra-git/leetcode_qs/tree/master/0739-daily-temperatures) |
 ## Primality Test
 |  |
 | ------- |
