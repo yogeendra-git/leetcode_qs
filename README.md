@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/yogeendra-git/leetcode_qs/tree/master/0944-delete-columns-to-make-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yogeendra-git/leetcode_qs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/yogeendra-git/leetcode_qs/tree/master/1046-last-stone-weight) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yogeendra-git/leetcode_qs/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/yogeendra-git/leetcode_qs/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/yogeendra-git/leetcode_qs/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/yogeendra-git/leetcode_qs/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0633-sum-of-square-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2460-apply-operations-to-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/2460-apply-operations-to-an-array) |
