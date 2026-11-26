@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/yogeendra-git/leetcode_qs/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/yogeendra-git/leetcode_qs/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2769-find-the-maximum-achievable-number](https://github.com/yogeendra-git/leetcode_qs/tree/master/2769-find-the-maximum-achievable-number) |
+| [3360-stone-removal-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/3360-stone-removal-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yogeendra-git/leetcode_qs/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/yogeendra-git/leetcode_qs/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yogeendra-git/leetcode_qs/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yogeendra-git/leetcode_qs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/yogeendra-git/leetcode_qs/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/yogeendra-git/leetcode_qs/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/yogeendra-git/leetcode_qs/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/yogeendra-git/leetcode_qs/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
