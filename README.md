@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yogeendra-git/leetcode_qs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/yogeendra-git/leetcode_qs/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/yogeendra-git/leetcode_qs/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/yogeendra-git/leetcode_qs/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/yogeendra-git/leetcode_qs/tree/master/1207-unique-number-of-occurrences) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/yogeendra-git/leetcode_qs/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yogeendra-git/leetcode_qs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/yogeendra-git/leetcode_qs/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yogeendra-git/leetcode_qs/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yogeendra-git/leetcode_qs/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/yogeendra-git/leetcode_qs/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/yogeendra-git/leetcode_qs/tree/master/0561-array-partition) |
 | [0819-most-common-word](https://github.com/yogeendra-git/leetcode_qs/tree/master/0819-most-common-word) |
 | [0912-sort-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/yogeendra-git/leetcode_qs/tree/master/1051-height-checker) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/yogeendra-git/leetcode_qs/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yogeendra-git/leetcode_qs/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/yogeendra-git/leetcode_qs/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -786,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yogeendra-git/leetcode_qs/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/yogeendra-git/leetcode_qs/tree/master/1051-height-checker) |
 ## Monotonic Stack
 |  |
 | ------- |
