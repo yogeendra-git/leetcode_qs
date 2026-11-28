@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/yogeendra-git/leetcode_qs/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/yogeendra-git/leetcode_qs/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/yogeendra-git/leetcode_qs/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3220-odd-and-even-transactions](https://github.com/yogeendra-git/leetcode_qs/tree/master/3220-odd-and-even-transactions) |
 ## String
 |  |
 | ------- |
